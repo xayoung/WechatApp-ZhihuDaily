@@ -1,0 +1,32 @@
+/**index.wxss**/
+.container {
+  background: #e0e0e0;
+  padding: 0;
+}
+
+.card {
+  background: #e0e0e0;
+  width: 750rpx; 
+  height: 610rpx;
+}
+
+.new-card {
+  background: #fff;
+  display: flex;
+  width: 750rpx;
+  height: 150rpx;
+  align-items: center;
+  margin-bottom: 10rpx;
+}
+
+.avatar {
+  padding-right: 10rpx;
+  width: 140rpx;
+  height: 140rpx;
+}
+
+.title {
+  padding-left: 10rpx;
+  font-size: 26rpx;
+  flex: 1;
+}

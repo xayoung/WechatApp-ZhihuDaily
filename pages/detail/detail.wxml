@@ -1,0 +1,2 @@
+<!--index.wxml-->
+{{item.body}}
